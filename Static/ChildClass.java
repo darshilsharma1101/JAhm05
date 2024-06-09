@@ -5,7 +5,7 @@ public class ChildClass extends Calculation{
 	private static String name;
 	static {
 		System.out.println("Hello!!");
-		name = "Khushi N. Patel";
+		name = "Darshil Sharma";
 	}
 
 }
