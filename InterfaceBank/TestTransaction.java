@@ -5,9 +5,9 @@ public class TestTransaction {
 		// TODO Auto-generated method stub
 
 		Account acc = new Account();
-		acc.setAccname("Khushi N. Patel");
-		acc.setEmail("Khushi123@gmail.com");
-		acc.setBalance(6000);
+		acc.setAccname("Darshil N Sharma");
+		acc.setEmail("darshil1101@gmail.com");
+		acc.setBalance(7000);
 		
 		
 		
